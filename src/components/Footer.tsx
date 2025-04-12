@@ -9,21 +9,21 @@ export default function Footer() {
           <div className="text-gray-400">© 2025 Vibe Production</div>
           <div className="flex space-x-6">
             <a
-              href="#"
+              href="https://www.instagram.com/vibeproduction.club"
               className="text-gray-400 hover:text-white transition-colors"
               aria-label="Instagram"
             >
               <Instagram size={24} />
             </a>
             {/* <a
-              href=""
+              href="#"
               className="text-gray-400 hover:text-white transition-colors"
               aria-label="Twitter"
             >
               <Twitter size={24} />
             </a> */}
             <a
-              href="#"
+              href="https://www.facebook.com/share/15V4jqTmVS/"
               className="text-gray-400 hover:text-white transition-colors"
               aria-label="Facebook"
             >
